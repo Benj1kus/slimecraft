@@ -14,7 +14,7 @@ launch noa
 
 
 
-&nbsp;cd noa-examples
+>> cd noa-examples
 
 >> npm install
 
